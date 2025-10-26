@@ -1,0 +1,46 @@
+
+Predicting NBA Game Winners
+
+Authors: Leland Lee (@lelandlee-lab) and Haitham (haithamassaf)
+
+Description and Research Topic:
+Our goal is to predict the winner of an NBA game bedore tipoff happens. We plan to use information that is given to us pregrame in order to predict the outcome of the game. Our main question that we are asking when determing such outcome is given each teams strengths and weakenesses, recent preformances, rosters and injuries, which tgeam is more likely to win? This problem is one of binary classification where we different models with real life outcomes. We will test many models such as logistic regression and neural networks. Our focus is to determine which model and features produce the most accurrate and definitive outcomes.
+
+Project outline:
+
+1. Week 1: Setup and create Github repository and determine roles and outline
+2. Week 2: Collect data on NBA games with various team stats and also prepare datasets
+3. Week 3: Implement logistic regression basline models
+4. Week 4: Build and do some testing on our advanced machine learning models
+5. Week 5: Take notes on preformance and make a detailed report and finalize presentation.
+
+Data Collection Plan:
+
+Leland Lee:
+1. Collect team stats like rebounds, turnovers, points, etc.
+2. look out for back to back games and also home and away games as those are important factors too
+
+
+Haitham:
+1. Gather nba schedule details like travel and rest days. Also account for injuries that players are currently dealing with.
+
+
+Model Plans:
+
+Leland Lee:
+
+1. assign team ratings and rest features for logistic regression.
+
+Haitham:
+
+1. experiment with different machine learning models
+
+Project Timeline
+Week:	Dates:	        Goals:
+1	Oct 27 – Nov 2	Set up repo, assign tasks, collect data sources
+2	Nov 3 – Nov 9	Clean and finalize data
+3	Nov 10 – Nov 16	Build baseline models
+4	Nov 17 – Nov 23	Build and test machine learning models
+5	Nov 24 – Nov 30	Evaluate, write report, and make slides
+
+

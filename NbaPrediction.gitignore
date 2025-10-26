@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (keep small samples only)
+data/raw/
+data/processed/
+
+# Model artifacts
+models/
+artifacts/
+
+# Logs
+logs/
+*.log
+
+# IDE/project files
+.vscode/
+.idea/
+
+# Secrets (never commit API keys)
+*.env
+.env.*
+secrets.json
