@@ -22,7 +22,9 @@ Leland Lee:
 
 
 Haitham:
-1. Gather nba schedule details like travel and rest days. Also account for injuries that players are currently dealing with.
+1. Gather NBA schedule details like travel and rest days. Also, account for injuries that players are currently dealing with.
+2. Collect stats of the team's specific players, ratings of the specific lineups may come into account (ORTG, DRTG). 
+3. Use previous seasons to determine the strength of schedule for the teams. 
 
 
 Model Plans:
@@ -33,7 +35,7 @@ Leland Lee:
 
 Haitham:
 
-1. experiment with different machine learning models
+1. experiment with different machine learning models.
 
 Project Timeline
 Week:	Dates:	        Goals:
