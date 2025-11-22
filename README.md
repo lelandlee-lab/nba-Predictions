@@ -4,7 +4,7 @@ Predicting NBA Game Winners
 Authors: Leland Lee (@lelandlee-lab) and Haitham (haithamassaf)
 
 Description and Research Topic:
-Our goal is to predict the winner of an NBA game bedore tipoff happens. We plan to use information that is given to us pregrame in order to predict the outcome of the game. Our main question that we are asking when determing such outcome is given each teams strengths and weakenesses, recent preformances, rosters and injuries, which tgeam is more likely to win? This problem is one of binary classification where we different models with real life outcomes. We will test many models such as logistic regression and neural networks. Our focus is to determine which model and features produce the most accurrate and definitive outcomes.
+Our goal is to predict the winner of an NBA game before tipoff happens. We plan to use information that is given to us pregrame in order to predict the outcome of the game. Our main question that we are asking when determing such outcome is given each teams strengths and weakenesses, recent preformances, rosters and injuries, which tgeam is more likely to win? This problem is one of binary classification where we different models with real life outcomes. We will test many models such as logistic regression and neural networks. Our focus is to determine which model and features produce the most accurrate and definitive outcomes.
 
 Project outline:
 
