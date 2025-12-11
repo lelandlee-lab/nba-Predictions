@@ -87,6 +87,6 @@ Future Improvements
 - Expand dataset using previous seasons instead of being limited to current year stats
 
 Conclusion
-- This project shows us how unsupervised learning can reveal a meaningful outline of what NBA awards can look like. By inocroporating different features like clustering, visualization, and many statistical patterns we can see that it is possible to align these models with real world perceptions of these players.
+- This project shows us how unsupervised learning can reveal a meaningful outline of what NBA awards can look like. By inocroporating different features like clustering, visualization, and many statistical patterns we can see that it is possible to align these models with real world perceptions of these players. In our original plan we wanted to predict the outcomes of NBA games but we decided to pivot our product to NBA end of season awards as this was more manageable. This was a fun project and we are satisfied with the predictions that we were able to get.
 
 
