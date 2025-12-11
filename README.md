@@ -16,6 +16,8 @@ Project outline:
 
 Data Collection Plan:
 
+Dataset comes from: https://www.basketball-reference.com/
+
 Leland Lee:
 1. Collect team stats like rebounds, turnovers, points, etc.
 2. Engineer features for clustering such as usage rate, ratings, and role indicators.
